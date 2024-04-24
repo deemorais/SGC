@@ -1,0 +1,14 @@
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\bin\Debug\net8.0\SGC.exe
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\bin\Debug\net8.0\SGC.deps.json
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\bin\Debug\net8.0\SGC.runtimeconfig.json
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\bin\Debug\net8.0\SGC.dll
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\bin\Debug\net8.0\SGC.pdb
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\SGC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\SGC.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\SGC.AssemblyInfo.cs
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\SGC.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\SGC.dll
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\refint\SGC.dll
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\SGC.pdb
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\SGC.genruntimeconfig.cache
+D:\Desenvolvimento\Softwares\ProcessoSeletivo\SGC\obj\Debug\net8.0\ref\SGC.dll
